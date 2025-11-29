@@ -5,7 +5,7 @@ This is **not a plug and play solution** for you to run MacOS Sequoia on your De
 
 Please **do not** use this repository for **anything** other than **occasional references**; for **ALL** questions, please refer to *[Dortania's Guide on Open Core](https://dortania.github.io/OpenCore-Install-Guide/installer-guide/)*
 
-Since this laptop is my daily driver and, I'm triple booting on the same SSD, I have chose not to add macOS to my internal EFI partition, instead opting to carry around a few flashdrives with identical copies of my bootloader; This is completely unnecessary for users not intended to dual or triple boot with Windows and MacOS.
+Since this I'm triple booting on the same SSD, I have chose not to add macOS to my internal EFI partition, instead opting to carry around a few flashdrives with identical copies of my bootloader; This is completely unnecessary for users not intended to dual or triple boot with Windows and MacOS.
 ## Laptop Specs – Latitude 5410 (P98G007)
 
 | Component            | Specification                                                                |
