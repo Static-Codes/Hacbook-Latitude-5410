@@ -17,6 +17,12 @@ Since this I'm triple booting on the same SSD, I have chose not to add macOS to 
 | SMBIOS | MacBookPro 16,3 |
 | MacOS | MacOS Sequoia
 
+## Triple Boot Setup
+| OS              | Partition Size | Partition Order |
+| :---:           | :---:          | :---:           | 
+| Linux (Mint)    | 810 GB         | 1               |
+| MacOS (Sequoia) | 800 GB         | 2               |
+| Win11 (LTSC)    | 200 GB         | 3               | 
 
 ## Current Bugs
 1. The display brightness will be extremely dimm for the first 140-180 seconds after entering the desktop environment.
