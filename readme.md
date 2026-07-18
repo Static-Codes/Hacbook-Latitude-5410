@@ -26,9 +26,8 @@ Since this I'm triple booting on the same SSD, I have chose not to add macOS to 
 | Win11 (LTSC)    | 200 GB         | 3               | 
 
 ## Current Bugs
-1. The display brightness will be extremely dimm for the first 140-180 seconds after entering the desktop environment.
-2. The trackpad doesn't work to wake from sleep, but Enter/Space work.
-3. Gesture Controls do not work with the trackpad, this can be quite annoying on other laptops, but the latitude has 2 sets of right and left click buttons.
+1. The trackpad doesn't work to wake from sleep, but Enter/Space work.
+2. Gesture Controls do not work with the trackpad, this can be quite annoying on other laptops, but the latitude has 2 sets of right and left click buttons.
 
 ## Notes:
 1. The battery seems to discharge faster than using Linux/Windows, I haven't ran Power Management tests yet though. 
