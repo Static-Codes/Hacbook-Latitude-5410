@@ -21,7 +21,7 @@ Since this I'm triple booting on the same SSD, I have chose not to add macOS to 
 ## Triple Boot Setup
 | OS              | Partition Size | Partition Order |
 | :---:           | :---:          | :---:           | 
-| Linux (Mint)    | 810 GB         | 1               |
+| Debian 13       | 810 GB         | 1               |
 | MacOS (Sequoia) | 800 GB         | 2               |
 | Win11 (LTSC)    | 200 GB         | 3               | 
 
