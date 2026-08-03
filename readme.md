@@ -32,3 +32,5 @@ Since this I'm triple booting on the same SSD, I have chose not to add macOS to 
 
 ## Notes:
 1. The battery seems to discharge faster than using Linux/Windows, I haven't ran Power Management tests yet though. 
+2. The system runs significantly hotter to the touch than Debian 13.3 Trixie
+3. Wifi does not work by default, you will need to install [Heliport](https://github.com/OpenIntelWireless/HeliPort/releases/tag/v1.5.0)
