@@ -28,6 +28,7 @@ Since this I'm triple booting on the same SSD, I have chose not to add macOS to 
 ## Current Bugs
 1. The trackpad doesn't work to wake from sleep, but Enter/Space work.
 2. Gesture Controls do not work with the trackpad, this can be quite annoying on other laptops, but the latitude has 2 sets of right and left click buttons.
+3. There is no patch in this config for backlight initialization. Currently, it takes around 3-5 minutes for the display to reach its intended brightness.
 
 ## Notes:
 1. The battery seems to discharge faster than using Linux/Windows, I haven't ran Power Management tests yet though. 
